@@ -1,1 +1,3 @@
 this is git command i done
+
+i made changes to it
